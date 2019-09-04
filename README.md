@@ -1,1 +1,2 @@
-# STutern
+# Stutern
+Class Projects
