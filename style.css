@@ -1,3 +1,14 @@
-body {
-			text-align: center;
-		}
+.container {
+	margin: 0 400px 0 400px;
+        position: absolute;
+}
+img[src="https://miro.medium.com/fit/c/96/96/1*Dg5Nl8BJYGqNAjxsoUwCng.jpeg"] {
+	float: left;
+	clip-path: circle(50%);
+}
+#author {
+        display: block;
+        place-items: center;
+        padding-top: 7px;
+        padding-left: 3px;
+}
