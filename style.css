@@ -9,6 +9,18 @@ img[src="https://miro.medium.com/fit/c/96/96/1*Dg5Nl8BJYGqNAjxsoUwCng.jpeg"] {
 #author {
         display: block;
         place-items: center;
-        padding-top: 7px;
-        padding-left: 3px;
+        padding-top: 2px;
+}
+h1 {
+       font-size: 40px;
+       text-align: center;
+}
+h2 {
+      font-size: 30px;
+}
+p {
+      font-size: 22px;
+}
+li {
+      font-size: 22px;
 }
